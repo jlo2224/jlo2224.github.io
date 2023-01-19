@@ -12,9 +12,9 @@ summary: "I developed a solo Texas Holdem poker project using Java."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="250px" src="../img/texas/preflop.png" class="img-thumbnail" >
+  <img width="250px" src="../img/texas/flop.png" class="img-thumbnail" >
+  <img width="250px" src="../img/texas/turn.png" class="img-thumbnail" >
 </div>
 
 This is a standard Texas Holdem poker game written with Java. Certain images, specifically the spade, heart, diamond, club, card back, empty card front, buttons, and chips were taken from the world wide web, and others such as the colored numbers/letters, green background, and text came from the Java JFrame library.
