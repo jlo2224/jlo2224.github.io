@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Reflection on Javascript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-01-17
 published: true
 labels:
   - Programming
