@@ -5,14 +5,13 @@
     "picture": "https://github.com/jlo2224.png",
     "email": "jaredlo@hawaii.edu",
     "phone": "808-278-0588",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://jlo2224.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "2540 Maile Way", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jlo2224", "url": "http://github.com/jlo2224" },
+      { "network": "linkedin", "username": "Jared Lo", "url": "linkedin.com/in/jared-lo-572052262" },
+      { "network": "instagram", "username": "jaredlo3", "url": "http://instagram.com/jaredlo3" }
     ]
   },
   "interests": [
@@ -44,74 +43,33 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "company": "UH Manoa Learning Emporium",
+      "position": "Mathematics Tutor",
+      "website": "https://uhnatsci.org/emporium/tutorschedules.php",
+      "startDate": "2022-08-29",
+      "endDate": "2022-12-16",
+      "summary": "Tutored for Math Classes up to Calculus III",
+      "highlights": []
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Mathematics Department",
+      "position": "Mathematics Grader",
+      "website": "",
+      "startDate": "2022-08-019",
+      "endDate": "present",
+      "summary": "Graded for MATH 372 (Elementary Probability and Statistics",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
+      "title": "UH Manoa Dean's List",
+      "date": "January 2023",
+      "awarder": "UH Manoa Office of the Registrar",
+      "summary": "Requirements: Earn a semester GPA of 3.5 or higher based on 12 credits or more, and do not receive grades of NC (no credit), W (withdrawn), I (incomplete), or F(failure)."
     }
   ]
 }
