@@ -19,7 +19,7 @@ summary: "I developed a solo Texas Holdem poker project using Java."
 
 This is a standard Texas Holdem poker game written with Java. Certain images, specifically the spade, heart, diamond, club, card back, empty card front, buttons, and chips were taken from the world wide web, and others such as the colored numbers/letters, green background, and text came from the Java JFrame library.
 
-With over 1700 lines of code (after several revisions to shorten the code), rapid runtime, and decent graphics, this is my most ambitious solo project to date. I wrote many different classes for this project, including my Main class, Self class, Player class, Deck class, and Calculator class. Here is a sample bit of code to show just one of the many methods I wrote for the Calculator class (used for computing values of hands and comparisons), which is it's comparator compare method. The value() function used in here is another static method I wrote within the Calculator class.
+With over 1700 lines of code (after several revisions to shorten the code), rapid runtime, and decent graphics, this is my most ambitious solo project to date. I wrote many different classes for this project, including my Main class, Self class, Player class, Deck class, and Calculator class. Here is a sample bit of code to show just one of the many methods I wrote for the Calculator class (used for computing values of hands and comparisons), which is it's comparator compare method. The value() function used in here is another static method I wrote within the Calculator class. 
 
 ```java
 public static int compare(ArrayList<String> hand1, ArrayList<String> hand2) {
