@@ -9,7 +9,7 @@ labels:
   - Programming
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/js_essay/js.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/js.jpg">
 
 *Javascript: Good or bad?*
 
