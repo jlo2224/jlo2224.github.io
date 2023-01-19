@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/texas/cards.png
 title: "Texas Holdem"
 date: 2015
 published: true
