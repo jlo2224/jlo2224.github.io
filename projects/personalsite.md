@@ -7,7 +7,8 @@ date: 2015
 published: true
 labels:
   - Education
-  - Java
+  - HTML
+  - CSS
 summary: "A personal site to display my past projects"
 ---
 
