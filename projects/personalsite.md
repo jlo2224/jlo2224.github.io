@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/texas/cards.png
+image: /img/site/site.png
 title: "Personal Website"
 date: 2015
 published: true
