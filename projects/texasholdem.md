@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../../img/texas/cards.png
+image: img/texas/cards.png
 title: "Texas Holdem"
 date: 2015
 published: true
