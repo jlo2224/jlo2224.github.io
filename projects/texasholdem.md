@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/texas/cards.png
 title: "Texas Holdem"
-date: 2015
+date: 2022
 published: true
 labels:
   - Education
