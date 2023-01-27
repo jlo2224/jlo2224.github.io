@@ -9,11 +9,11 @@ labels:
   - Programming
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/js.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/pet.png">
 
 *Plzzz I have a bug here. How do I fix??*
 
-Ok yes, if you've read the title, I definitely did overexaggerate how bad some programming questions are. Tech professionals get irritated when you ask them a poor question. Why wouldn't they? You're asking a poorly-phrased, elementary question in a forum with many M.D.'s and P.H.D.'s who have to suffer another loser. It's like having Usain Bolt teaching a kid how to walk. Or asking Joe Biden to explain how student politics at your local university works. Hell, I get irritated too. I've helped people with math questions, and sometimes they genuinely have good questions, other times they don't even know where to start - which is something that you could figure out by reading the first few lines of the textbook.
+Ok yes, if you've read the title, I definitely did overexaggerate how bad some programming questions are. But bad questions do exist! And sure enough, tech professionals get irritated when you ask them a poor question. Why wouldn't they? You're asking a poorly-phrased, elementary question in a forum with many M.D.'s and P.H.D.'s who have to suffer another loser. It's like having Usain Bolt teaching a kid how to walk. Or asking Joe Biden to explain how student politics at your local university works. Hell, I get irritated too. I've helped people with math questions, and sometimes they genuinely have good questions, other times they don't even know where to start - which is something that you could figure out by reading the first few lines of the textbook.
 
 ## What's a bad question?
 
@@ -33,7 +33,7 @@ window.addEventListener('message', function(event) {
 ```
 Here is a link to that [question](https://stackoverflow.com/questions/75255222/lazada-open-platform-webhook-callback-url) from Stack Overflow.
 
-First of all, this is definitely a question that has been asked before. It is not a question with much programming depth that you'd need to look further than the manual. Furthermore, you're telling me little about the program. It might be helpful if you gave me the precise parameters you tried inputting into that function. Also, within the "if" statement, you've only included a comment. Are you sure that the function fails to begin with? Have you tried writing a simple console.log() to test it for small errors? Provide me with at least one example of the parameters you inputted, what it returned/printed/outputted. I am not a professional at answering questions by any stretch of the imagination, but even I can see you've hardly put in any effort finding out for yourself before asking me.
+First of all, this is definitely a question that has been asked before. It is not a question with much programming depth that you'd need to look further than the manual. Furthermore, you're telling me little about the program. It might be helpful if you gave me the precise parameters you tried inputting into that function. Also, within the "if" statement, you've only included a comment. Are you sure that the function fails to begin with? Have you tried writing a simple console.log() to test it for small errors? Provide me with at least one example of the parameters you inputted, and what it returned/printed/outputted. I am not a professional at answering questions by any stretch of the imagination, but even I can see you've hardly put in any effort finding out for yourself before asking me.
 
 ## Do I feel that the tech professionals are a little hostile?
 
