@@ -9,11 +9,31 @@ labels:
   - Programming
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/pet.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/pet.png">
 
 *Plzzz I have a bug here. How do I fix??*
 
 Ok yes, if you've read the title, I definitely did overexaggerate how bad some programming questions are. But bad questions do exist! And sure enough, tech professionals get irritated when you ask them a poor question. Why wouldn't they? You're asking a poorly-phrased, elementary question in a forum with many M.D.'s and P.H.D.'s who have to suffer another loser. It's like having Usain Bolt teaching a kid how to walk. Or asking Joe Biden to explain how student politics at your local university works. Hell, I get irritated too. I've helped people with math questions, and sometimes they genuinely have good questions, other times they don't even know where to start - which is something that you could figure out by reading the first few lines of the textbook.
+
+So what would make a model question? Here is an example:
+
+*"When I build my ASP.NET Core-Web-Api via Visual Studio I can choose to host it with "https" or "IIS Express" in debug or release mode. Via Swagger I can use all my functions even a print works.
+...
+Now I have my application hosted as a Windows service, also the application is accessible via Swagger. I can list my printers and also get data about my wather forecast. But I can not create a print anymore?
+...
+I use the following packages:
+...
+I create my document with PageDocument, works fine from Visual Studio but not from Windows-service.
+..."*
+And alongside that brief summary, here's a link to the [question](https://stackoverflow.com/questions/75255228/printing-via-asp-net-core-web-api-hosted-as-windows-service) in question (see what I did there?).
+
+So if you've clicked on the link, you would have also seen a number of attached images. What are the positive qualities of this post?
+1) Provides detail about the issue, describing precisely what went wrong. On top of that, it details what went right, thus allowing tech professionals to quickly narrow down the sources of the problem.
+2) It describes which packages it used. This is important because packages can differ between applications.
+3) Images are extremely helpful. An image is worth a thousand words. Of course, take this with a grain of salt. Don't put images of code, just copy and paste that crap. In this case, though, images are used properly in this question.
+4) Carefully describes their issue with clean English, non-aggressive wording, etc.
+
+Once again, this is, in fact, a real question from Stack Overflow. If I knew what the heck this meant, I definitely would reply to this question. It is immediately obvious to me that this person has spent his/her time searching the web for the answer, as well as designing their question to receive a good answer. But let's see a BAD question from Stack Overflow.
 
 ## What's a bad question?
 
