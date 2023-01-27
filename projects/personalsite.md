@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/site/site.png
+image: img/site/site.png
 title: "Personal Website"
 date: 2022
 published: true
