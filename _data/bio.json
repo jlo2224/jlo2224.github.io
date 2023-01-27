@@ -10,7 +10,7 @@
     "location": { "address": "2540 Maile Way", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jlo2224", "url": "http://github.com/jlo2224" },
-      { "network": "linkedin", "username": "Jared Lo", "url": "linkedin.com/in/jared-lo-572052262" },
+      { "network": "linkedin", "username": "Jared Lo", "url": "https://www.linkedin.com/in/jared-lo-572052262/" },
       { "network": "instagram", "username": "jaredlo3", "url": "http://instagram.com/jaredlo3" }
     ]
   },
