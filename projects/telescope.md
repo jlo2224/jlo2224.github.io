@@ -9,7 +9,7 @@ labels:
   - Education
   - Python
   - Jupyter
-summary: "A personal site to display my past projects"
+summary: "High School Team Project that integrated Software, Physics, and Astronomy"
 ---
 
 <div class="text-center p-4">
