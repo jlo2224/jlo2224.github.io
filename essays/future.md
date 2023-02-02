@@ -9,7 +9,7 @@ labels:
   - Programming
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/js.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/dumb.png">
 
 *Decent professional portfolio? Check.
 Understanding of javascript and general purpose languages? Check.
