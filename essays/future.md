@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "See you in the world wide web!"
+title: "Does this plain guy have any interests?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-1
 published: true
