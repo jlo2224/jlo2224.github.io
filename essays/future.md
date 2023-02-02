@@ -21,4 +21,4 @@ In the future, I hope to improve in my ability to develop more sophisticated sof
 
 For the time being, I'm unsure of what future projects I want to strive for. I certainly do enjoy creating games, so perhaps something in that general direction. Other alternatives are team projects that I've been working on, in particular, developing software for clubs under ACM to use, or for a cuberover side project.
 
-Now, because I am such a boring and easy-to-please person, I was personally very excited to develop my own websites using html and CSS, but after seeing a variety of other websites 
+I would like to learn more about the computer's ability to comprehend data, and artificial intelligence. Right now, I am completely confused on how any of this AI stuff works, but its absurd to think how far it has come in that something as advanced as ChatGPT became possible.
