@@ -9,7 +9,7 @@ labels:
   - Programming
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/dumb.png">
+<img width="1200px" class="rounded float-start pe-4" src="../img/quick.png">
 
 ## Programming is annoying.
 
@@ -37,15 +37,17 @@ void foo()
   return;
 }
 ```
-Where as in ICS 314, our style guidelines demand this:
+Whereas in ICS 314, our style guidelines demand this:
 ```java
 void foo(){
   return;
 }
 ```
 
-Once again, if you didn't catch the difference, it's that damn opening curly brace showing up after the parenthesis or after a new line. 
+Once again, if you didn't catch the difference, it's that damn opening curly brace showing up after the parenthesis or after a new line. To be honest, I don't even remember which class demands which. I might've reversed them on accident. But I know one demands one, and the other demands the other.
 
 Now to its credit, I do understand the purpose of style guidelines. I'm not oblivious, I know we have to make our code look nice so that teammates can understand our code. After all, I have worked on collaborative projects in the past. However, it is rather annoying that style guidelines show up as "errors" or "incorrect" rather than simple warnings. Moreover, the previously mentioned conflicting style guidelines really does not sit well with me. There does exist the satisfaction of seeing a green checkmark at the corner of the screen, and whatnot. But in full truth, while I do feel that a certain level of readability is necessary for any collaborative project, it is certainly not needed for a solo project/file, and is most certainly not needed at such an extreme level.
 
 Programming is annoying, annoying, and beyond annoying.
+
+Oh, and by they way. That image at the top of this essay? Yep, that's a quicksort algorithm I wrote in java using only one line, just minutes before publishing this essay. No, I did not write it out normally first then delete lines. I wrote it start to finish with one line, in just about 15 minutes, just to show how much I hate style guidelines. So yes, I can live without style :)
