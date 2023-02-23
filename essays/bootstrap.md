@@ -1,15 +1,13 @@
-
 ---
 layout: essay
 type: essay
-title: "I thought you put them on your chest, not on the boot?"
+title: "I thought you wore those on the chest, not the boot?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
 labels:
-  - Programming, Bootstrap, HTML
+  - Programming
 ---
-
 
 <img width="300px" class="rounded float-start pe-4" src="../img/bootstrap/boot.png">
 
