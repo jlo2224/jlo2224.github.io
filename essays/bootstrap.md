@@ -8,12 +8,11 @@ published: true
 labels:
   - Programming
 ---
-
+<div class="text-center p-4">
 <img width="300px" class="rounded float-start pe-4" src="../img/bootstrap/boot.png">
-
 <img width="300px" class="rounded float-start pe-4" src="../img/bootstrap/plus.png">
-
 <img width="300px" class="rounded float-start pe-4" src="../img/bootstrap/strap.png">
+</div>
 
 ## Bootstrap.
 
