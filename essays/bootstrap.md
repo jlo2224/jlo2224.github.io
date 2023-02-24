@@ -16,7 +16,9 @@ labels:
 
 ## Bootstrap.
 
-What is bootstrap, and why is it simultaneously so popular and so hated? It is not a physical object. It is an open-source stylesheet that makes your sites look more elegant. Bootstrap is a useful tool for styling an html webpage with set default styles for a variety of classes. For instance, unlike those basic “attach files” buttons you see all over Laulima:
+What is bootstrap, and why is it simultaneously so popular and so hated? It is not a physical object. It is an open-source stylesheet that makes your sites look more elegant. 
+
+It is very relevant and there are plenty of Bootstrap downloads that you can use for your site. It is not atypical to find web developers rewriting their raw html and css files with Bootstrap to make it look nicer. Bootstrap is a useful tool for styling an html webpage with set default styles for a variety of classes. For instance, unlike those basic “attach files” buttons you see all over Laulima:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/bootstrap/button.png">
 
