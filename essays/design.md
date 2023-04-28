@@ -31,7 +31,7 @@ My team frequently holds meetings, and design patterns is a common topic that we
 
 ### System-Enforced Design Patterns
 
-Returning to the analogy of the klutz who simply cannot follow the formatting of slides during a presentation, attempting to enforce these style guidelines still isn’t a foolproof way to prevent that klutz from diverging from those guidelines. In some cases, when discussions of formatting might go in one ear and out the other. In another case, all you’ll hear is “yo hablo espanol.”
+Returning to the analogy of the klutz who simply cannot follow the formatting of slides during a presentation, attempting to enforce these style guidelines still isn’t a foolproof way to prevent that klutz from diverging from those guidelines. In some cases, discussions of formatting might go in one ear and out the other. In another case, all you’ll hear is “yo hablo espanol.”
 
 Here’s where concrete, system-enforced design patterns come into play. Within our Github Repository, several tests are automatically run, which are ESLint and Testcafe checks. Since the klutz can’t avoid these tests, this should be a (hopefully) foolproof system!
 
