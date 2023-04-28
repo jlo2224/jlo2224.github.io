@@ -9,7 +9,7 @@ labels:
   - Programming
 ---
 
-Anything that can go wrong, will go wrong. Here’s a situation for you:
+*Anything that can go wrong, will go wrong. Here’s a situation for you:*
 
 When you write a presentation with several colleagues, you’ll quickly notice that there’s at least one person in that group who simply cannot stick to the format of your slides. In slide one, you have the title and authors listed, all in Times New Roman font with a dark gray background. In slide two, you have information and general introductions about whatever you’re presenting on, and once again, you have it beautifully written in Times New Roman, with the same font sizes and background. But then you get to slide three, and that’s when the idiot of the group throws in an aqua background and small Comic Sans MS font, as if it were a published paper written by CERN. 
 
@@ -17,11 +17,11 @@ That’s annoying. Not just annoying to me specifically, but it is OBJECTIVELY a
 
 In a software engineering environment, the equivalent of this situation is a team writing in Javascript and React components, except one person doesn’t make comments on any of their pull requests, has poor naming conventions, and nullifies the purpose of using GitHub to begin with. 
 
-### DISCLAIMER!!
+## DISCLAIMER!!
 
 It is important to note that this is not a situation I encounter with my group. I love my group and how organized they are, but I merely describe the nightmare of a situation if we did not have this organized structure.
 
-### Our practices
+## Our practices
 
 Design patterns are guidelines set by a group to organize and simplify changes made to a project. The implementation of these design patterns is precisely what is used to avoid conflicts as described prior. One such example would be to store all your pages in a designated ‘pages’ directory, your components in a ‘components’ directory, your .css and .scss in a ‘styles’ directory, etc.
 
