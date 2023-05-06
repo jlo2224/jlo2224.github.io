@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Style Guidelines - the art of annoyance."
+title: "Development in development"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-1
 published: true
 labels:
   - Programming
+  - Software Engineering
 ---
 
 ### Quick Recap
