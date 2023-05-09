@@ -7,7 +7,7 @@
     "phone": "808-278-0588",
     "website": "https://jlo2224.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "2540 Maile Way", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "1680 East-West Rd.", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jlo2224", "url": "http://github.com/jlo2224" },
       { "network": "linkedin", "username": "Jared Lo", "url": "https://www.linkedin.com/in/jared-lo-572052262/" },
@@ -43,13 +43,14 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Learning Emporium",
-      "position": "Mathematics Tutor",
-      "website": "https://uhnatsci.org/emporium/tutorschedules.php",
-      "startDate": "2022-08-29",
-      "endDate": "2022-12-16",
-      "summary": "Tutored for Math Classes up to Calculus III",
-      "highlights": []
+      "company": "International Structural Engineering and Construction Society",
+      "position": "Full-Stack Developer",
+      "website": "",
+      "startDate": "2023-04-019",
+      "endDate": "present",
+      "summary": "Maintaining ISEC website and conferences, review manuscripts and abstracts, attend conference meetings.",
+      "highlights": [
+      ]
     },
     {
       "company": "UH Manoa Mathematics Department",
@@ -60,6 +61,15 @@
       "summary": "Graded for MATH 372 (Elementary Probability and Statistics",
       "highlights": [
       ]
+    },
+    {
+      "company": "UH Manoa Learning Emporium",
+      "position": "Mathematics Tutor",
+      "website": "https://uhnatsci.org/emporium/tutorschedules.php",
+      "startDate": "2022-08-29",
+      "endDate": "2022-12-16",
+      "summary": "Tutored for Math Classes up to Calculus III",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -69,7 +79,7 @@
       "title": "UH Manoa Dean's List",
       "date": "January 2023",
       "awarder": "UH Manoa Office of the Registrar",
-      "summary": "Requirements: Earn a semester GPA of 3.5 or higher based on 12 credits or more, and do not receive grades of NC (no credit), W (withdrawn), I (incomplete), or F(failure)."
+      "summary": "Requirements: Received a 4.0 GPA for Fall 2022 semester"
     }
   ]
 }
