@@ -16,9 +16,8 @@
   },
   "interests": [
     { "name": "Artificial Intelligence" },
-    { "name": "Cybersecurity and Cyber Operations" },
-    { "name": "Data Analysis" },
-    { "name": "Game Development" }
+    { "name": "Software Engineering" },
+    { "name": "Data Science" }
   ],
   "skills": [
     {
