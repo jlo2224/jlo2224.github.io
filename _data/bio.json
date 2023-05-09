@@ -74,7 +74,9 @@
   "volunteer": [
     {
       "position": "Computer Programmer",
-      "summary": "Used Robotics Operating System (ROS) to interface hardware with software and packages. Set up inertial measurement units, raspberry PI cameras, VICON systems, etc., to feed data through Jetson Nano and Raspberry PIs to collect and process data."
+      "summary": "Used Robotics Operating System (ROS) to interface hardware with software and packages. Set up inertial measurement units, raspberry PI cameras, VICON systems, etc., to feed data through Jetson Nano and Raspberry PIs to collect and process data.",
+      "startDate": "2023-01-15",
+      "endDate": "present"
     }
   ],
   "awards": [
