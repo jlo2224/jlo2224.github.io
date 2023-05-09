@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Development in development"
 # All dates must be YYYY-MM-DD format!
-date: 2023-02-1
+date: 2023-05-8
 published: true
 labels:
   - Programming
