@@ -17,8 +17,8 @@ summary: "A collaboratively-designed website to network students with companies.
 
 <div class="text-center p-4">
   <img width="300px" src="../img/manoalink/dashboard.png" class="img-thumbnail" >
-  <img width="300px" src="../img/telescope/companies.png" class="img-thumbnail" >
-  <img width="300px" src="../img/telescope/joblistings.png" class="img-thumbnail" >
+  <img width="300px" src="../img/manoalink/companies.png" class="img-thumbnail" >
+  <img width="300px" src="../img/manoalink/joblistings.png" class="img-thumbnail" >
 </div>
 
 During my Spring 2023 semester, I enrolled in ICS314 (Software Engineering I) at the University of Hawaii at Manoa. For my final project, I teamed up with talented classmates and friends to design [Manoa-Link](https://manoalink.site). The pacing and schedule was very intensive, yet we were able to produce a satisfying result, with pages for student dashboard, company dashboard, company listings, job listings, manage listings, manage events, view events, and more. Further details can be found [here](https://uhmanoalink.github.io/).
