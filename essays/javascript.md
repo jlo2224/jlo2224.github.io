@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Great, more creative buttons. I suppose."
+title: "Sigh, another language I have to learn..."
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-17
 published: true
