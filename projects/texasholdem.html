@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Texas Holdem | Jared Lo | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/jlo2224.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jared Lo | Professional Portfolio">
+    <meta property="og:url" content="https://jlo2224.github.io/projects/texasholdem.html">
+    <meta property="og:title" content="Texas Holdem | Jared Lo | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/jlo2224.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Texas Holdem | Jared Lo | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jared Lo</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Texas Holdem</h1>
+ <div class="text-center p-4">
+  <img width="250px" src="../img/texas/preflop.png" class="img-thumbnail" />
+  <img width="250px" src="../img/texas/flop.png" class="img-thumbnail" />
+  <img width="250px" src="../img/texas/turn.png" class="img-thumbnail" />
+</div>
+
+<p>This is a standard Texas Holdem poker game written with Java. Certain images, specifically the spade, heart, diamond, club, card back, empty card front, buttons, and chips were taken from the world wide web, and others such as the colored numbers/letters, green background, and text came from the Java JFrame library.</p>
+
+<p>With over 1700 lines of code (after several revisions to shorten the code), rapid runtime, and decent graphics, this is my most ambitious solo project to date. I wrote many different classes for this project, including my Main class, Self class, Player class, Deck class, and Calculator class. Here is a sample bit of code to show just one of the many methods I wrote for the Calculator class (used for computing values of hands and comparisons), which is it’s comparator compare method. The value() function used in here is another static method I wrote within the Calculator class.</p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kt">int</span> <span class="nf">compare</span><span class="o">(</span><span class="nc">ArrayList</span><span class="o">&lt;</span><span class="nc">String</span><span class="o">&gt;</span> <span class="n">hand1</span><span class="o">,</span> <span class="nc">ArrayList</span><span class="o">&lt;</span><span class="nc">String</span><span class="o">&gt;</span> <span class="n">hand2</span><span class="o">)</span> <span class="o">{</span>
+	<span class="k">if</span> <span class="o">(</span><span class="n">value</span><span class="o">(</span><span class="n">hand1</span><span class="o">)</span> <span class="o">&gt;</span> <span class="n">value</span><span class="o">(</span><span class="n">hand2</span><span class="o">))</span> <span class="o">{</span>
+		<span class="k">return</span> <span class="mi">1</span><span class="o">;</span>
+	<span class="o">}</span> <span class="k">else</span> <span class="k">if</span> <span class="o">(</span><span class="n">value</span><span class="o">(</span><span class="n">hand1</span><span class="o">)</span> <span class="o">&lt;</span> <span class="n">value</span><span class="o">(</span><span class="n">hand2</span><span class="o">))</span> <span class="o">{</span>
+		<span class="k">return</span> <span class="o">-</span><span class="mi">1</span><span class="o">;</span>
+	<span class="o">}</span>
+	<span class="kt">int</span><span class="o">[]</span> <span class="n">h1</span> <span class="o">=</span> <span class="n">highCard</span><span class="o">(</span><span class="n">hand1</span><span class="o">);</span>
+	<span class="kt">int</span><span class="o">[]</span> <span class="n">h2</span> <span class="o">=</span> <span class="n">highCard</span><span class="o">(</span><span class="n">hand2</span><span class="o">);</span>
+	<span class="k">for</span> <span class="o">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">h1</span><span class="o">.</span><span class="na">length</span><span class="o">;</span> <span class="n">i</span><span class="o">++)</span> <span class="o">{</span>
+		<span class="k">if</span> <span class="o">(</span><span class="n">h1</span><span class="o">[</span><span class="n">i</span><span class="o">]</span> <span class="o">&gt;</span> <span class="n">h2</span><span class="o">[</span><span class="n">i</span><span class="o">])</span> <span class="o">{</span>
+			<span class="k">return</span> <span class="mi">1</span><span class="o">;</span>
+		<span class="o">}</span>
+		<span class="k">if</span> <span class="o">(</span><span class="n">h1</span><span class="o">[</span><span class="n">i</span><span class="o">]</span> <span class="o">&lt;</span> <span class="n">h2</span><span class="o">[</span><span class="n">i</span><span class="o">])</span> <span class="o">{</span>
+			<span class="k">return</span> <span class="o">-</span><span class="mi">1</span><span class="o">;</span>
+		<span class="o">}</span>
+	<span class="o">}</span>
+	<span class="k">return</span> <span class="mi">0</span><span class="o">;</span>
+<span class="o">}</span>
+</code></pre></div></div>
+
+<p>Some notes: There are just a couple of small “bugs”. It’s not so much a bug, but a misunderstanding on my part about how the game is supposed to function. See, I initially thought that when a player goes all in, and two other players begin making a side bet, I thought that if one player folded the side bet, they would still be able to claim winnings from the main pot. However, I was wrong about this, so when I implemented this in Java, it did not match the standard rules for Texas Holdem. Other than this, there are not any major bugs.</p>
+
+<p>Out of boredom, and with too much time on my hands, I decided I should write my own game as a side project. ICS211 was a course I took in the Fall of 2022, and it was my first experience with Java. Naturally, to improve on my Java skills, I’d decided to write my own Poker game using Eclipse IDE.</p>
+
+<p>I started out by writing a game via the command line, implementing Draw Poker. Thankfully, it worked perfectly, but it took me a painstaking amount of time, especially in cases like dealing with split pots and removing eliminated players from the table. After a week or so, I had my working game on the command-line, which surprisingly took as many as 600 lines of code, even with me following good code practice and optimizing it as much as possible.</p>
+
+<p>I didn’t anticipate that writing the code for the project shown above would take me so much longer, though. I reused some of the code, roughly 300 lines, and wrote a whopping 1700 more lines of code to implement the game. After remodeling and optimizing, I cut it down to roughly 1700 total lines instead of 1700 additional lines. I had to do much self-research on how to use JFrame libraries to render a second screen, along with numerous images, but nonetheless, I got it to work. It took me around a month and a half, but I was quite proud of what I achieved. Since the game changed from Draw Poker to Texas Holdem, I had to change a lot of rules and functionality, and I had to figure out how to distinguish bots from players, and this was overall incredibly challenging. Moreover, dealing with bugs was a pain in the butt.</p>
+
+<p>I’m glad I got this experience, though. It’s definitely a good project that I’ll store somewhere safe in my laptop.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

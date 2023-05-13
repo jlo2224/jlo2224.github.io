@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Jared Lo",
+    "label": "Student",
+    "picture": "https://github.com/jlo2224.png",
+    "email": "jaredlo@hawaii.edu",
+    "phone": "808-278-0588",
+    "website": "https://jlo2224.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "1680 East-West Rd.", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jlo2224", "url": "http://github.com/jlo2224" },
+      { "network": "linkedin", "username": "Jared Lo", "url": "https://www.linkedin.com/in/jared-lo-572052262/" },
+      { "network": "instagram", "username": "jaredlo3", "url": "http://instagram.com/jaredlo3" }
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Software Engineering" },
+    { "name": "Data Science" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C#", "Java", "Javascript", "Python", "Unity"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022-06-01",
+      "endDate": "Present",
+      "courses": ["ICS 111 - Introduction to Computer Science I", "ICS 211 - Introduction to Computer Science II", "ICS 212 - Program Structure", "ICS 311 - Introduction to Algorithms", "ICS 314 - Software Engineering I", "MATH 301 - Introduction to Discrete Mathematics", "MATH 372 - Elementary Probability and Statistics"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "International Structural Engineering and Construction Society",
+      "position": "Full-Stack Developer",
+      "website": "",
+      "startDate": "2023-04-019",
+      "endDate": "present",
+      "summary": "Maintaining ISEC website and conferences, review manuscripts and abstracts, attend conference meetings.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "UH Manoa Mathematics Department",
+      "position": "Mathematics Grader",
+      "website": "",
+      "startDate": "2022-08-019",
+      "endDate": "present",
+      "summary": "Graded for MATH 372 (Elementary Probability and Statistics",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "UH Manoa Learning Emporium",
+      "position": "Mathematics Tutor",
+      "website": "https://uhnatsci.org/emporium/tutorschedules.php",
+      "startDate": "2022-08-29",
+      "endDate": "2022-12-16",
+      "summary": "Tutored for Math Classes up to Calculus III",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "position": "Computer Programmer",
+      "summary": "Used Robotics Operating System (ROS) to interface hardware with software and packages. Set up inertial measurement units, raspberry PI cameras, VICON systems, etc., to feed data through Jetson Nano and Raspberry PIs to collect and process data.",
+      "startDate": "2023-01-15",
+      "endDate": "present"
+    },
+    {
+      "position": "Software Engineer",
+      "summary": "Used React, html, and CSS to design website(s) for ACM at UH Manoa.",
+      "startDate": "2023-01-15",
+      "endDate": "present"
+    }
+  ],
+  "awards": [
+    {
+      "title": "UH Manoa Dean's List",
+      "date": "January 2023",
+      "awarder": "UH Manoa Office of the Registrar",
+      "summary": "Requirements: Received a 4.0 GPA for Fall 2022 semester"
+    }
+  ]
+}
