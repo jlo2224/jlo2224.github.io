@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Plzzz I have a bug here. How do I fix??"
+title: "Fix my bugs for me."
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
 published: true
@@ -10,8 +10,6 @@ labels:
 ---
 
 <img width="600px" class="rounded float-start pe-4" src="../img/pet.png">
-
-*Plzzz I have a bug here. How do I fix??*
 
 Ok yes, if you've read the title, I definitely did overexaggerate how bad some programming questions are. But bad questions do exist! And sure enough, tech professionals get irritated when you ask them a poor question. Why wouldn't they? You're asking a poorly-phrased, elementary question in a forum with many M.D.'s and P.H.D.'s who have to suffer another loser. It's like having Usain Bolt teaching a kid how to walk. Or asking Joe Biden to explain how student politics at your local university works. Hell, I get irritated too. I've helped people with math questions, and sometimes they genuinely have good questions, other times they don't even know where to start - which is something that you could figure out by reading the first few lines of the textbook.
 
