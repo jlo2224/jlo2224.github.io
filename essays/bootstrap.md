@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: exclude
 title: "I thought you wore those on the chest, not the boot?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
