@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: exclude
 title: "Does this plain guy have any interests?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-1
